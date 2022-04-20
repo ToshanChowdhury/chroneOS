@@ -1,0 +1,44 @@
+App Compatibility List For Chrone OS
+
+1. Google Chrome
+2. Microsoft Edge
+3. Opera GX
+4. FireFox
+5. FreeOffice
+6. LibreOffice
+7. ONLYOFFICE
+8. Polaris Office
+9. WPS Office
+10. Google Drive
+11. Micirosoft OneDrive
+12. OpenOffice
+13. VLC Media Player
+14. 7-zip
+15. WinRAR
+16. Notepad++
+17. Visual Studio Code
+18. Python 3 (Latest Version)
+19. dropbox
+20. Avast Antivirus Free
+21. Malwarebytes
+22. AVG Antivirus Free
+23. Spotify
+24. Paint.NET
+25. VoidTools Everything
+26. Avira Antivirus
+27. Evernote
+28. Adobe Acrobat PDF
+29. Sublime Text
+30. Jetbrains PyCharm
+31. Spybot 3.0.5
+32. TeraCopy
+33. GIMP
+34. ImgBurn
+35. Eclispe
+36. Greenshot
+37. Steam
+38. Google Earth
+39. WinMerge
+40. FileZilla
+41. Whatsapp Desktop
+42. WinDirStat
